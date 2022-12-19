@@ -16,8 +16,13 @@ Visualisation to share the findings with the team and other key stakeholders.
 # Summary
 PCA and t-SNE clustering
 
+<p align="center"><img src='https://github.com/BharatGuturi/unsupervised-machine-learning-challenge/blob/main/Images/1.png' width = 80% ></p> 
+
 kmeans analysis
 
+<p align="center"><img src='https://github.com/BharatGuturi/unsupervised-machine-learning-challenge/blob/main/Images/2.png' width = 80% ></p>
+
+<p align="center"><img src='https://github.com/BharatGuturi/unsupervised-machine-learning-challenge/blob/main/Images/3.png' width = 80% ></p>
 
 # Conclusion
 Using PCA and tsne, the data could not be clustered.

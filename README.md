@@ -5,7 +5,7 @@ Visualisation to share the findings with the team and other key stakeholders.
 
 # Instructions
 1) To execute the project follow the below commands:
-   git clone https://github.com/BharatGuturi/unsupervised-machine-learning-challenge.git
+   git clone https://github.com/BharatGuturi/Unsupervised-machine-learning.git
 2) Install the required libraries using the following commands:
    pip install matplotlib
    pip install pandas 
@@ -20,9 +20,9 @@ PCA and t-SNE clustering
 
 kmeans analysis
 
-<p align="center"><img src='https://github.com/BharatGuturi/unsupervised-machine-learning-challenge/blob/main/Images/2.png' width = 80% ></p>
+<p align="center"><img src='https://github.com/BharatGuturi/Unsupervised-machine-learning/blob/main/Images/2.png' width = 80% ></p>
 
-<p align="center"><img src='https://github.com/BharatGuturi/unsupervised-machine-learning-challenge/blob/main/Images/3.png' width = 80% ></p>
+<p align="center"><img src='https://github.com/BharatGuturi/Unsupervised-machine-learning/blob/main/Images/3.png' width = 80% ></p>
 
 # Conclusion
 Using PCA and tsne, the data could not be clustered.
